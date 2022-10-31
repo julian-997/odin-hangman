@@ -1,0 +1,25 @@
+---
+used_letters:
+- a
+- f
+- g
+wrong_guesses:
+- a
+- f
+- g
+word_to_guess:
+- m
+- o
+- r
+- o
+- c
+- c
+- o
+correct_guesses:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
